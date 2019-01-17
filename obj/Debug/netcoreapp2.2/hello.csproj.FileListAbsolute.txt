@@ -1,0 +1,11 @@
+/home/pedro/Escritorio/C# Projects/hello/bin/Debug/netcoreapp2.2/hello.deps.json
+/home/pedro/Escritorio/C# Projects/hello/bin/Debug/netcoreapp2.2/hello.runtimeconfig.json
+/home/pedro/Escritorio/C# Projects/hello/bin/Debug/netcoreapp2.2/hello.runtimeconfig.dev.json
+/home/pedro/Escritorio/C# Projects/hello/bin/Debug/netcoreapp2.2/hello.dll
+/home/pedro/Escritorio/C# Projects/hello/bin/Debug/netcoreapp2.2/hello.pdb
+/home/pedro/Escritorio/C# Projects/hello/obj/Debug/netcoreapp2.2/hello.csprojAssemblyReference.cache
+/home/pedro/Escritorio/C# Projects/hello/obj/Debug/netcoreapp2.2/hello.csproj.CoreCompileInputs.cache
+/home/pedro/Escritorio/C# Projects/hello/obj/Debug/netcoreapp2.2/hello.AssemblyInfoInputs.cache
+/home/pedro/Escritorio/C# Projects/hello/obj/Debug/netcoreapp2.2/hello.AssemblyInfo.cs
+/home/pedro/Escritorio/C# Projects/hello/obj/Debug/netcoreapp2.2/hello.dll
+/home/pedro/Escritorio/C# Projects/hello/obj/Debug/netcoreapp2.2/hello.pdb
